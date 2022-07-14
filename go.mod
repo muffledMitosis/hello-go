@@ -1,4 +1,4 @@
-module muffledMitosis/hello
+module muffledMitosis/hello-go
 
 go 1.18
 
