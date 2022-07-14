@@ -3,7 +3,7 @@ package main
 
 import (
   "fmt"
-  "muffledMitosis/greetings"
+  "muffledMitosis/greetings-go"
   "log"
 )
 
